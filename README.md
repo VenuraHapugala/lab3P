@@ -9,9 +9,9 @@
 <h1>Introduction</h1>
 <p align="center"> With the busy schedule of people, it has become hard to manage day-to-day activities in a proper manner. With the consideration of that issue, we made this project in order to give a solution for that inside a mobile platform. We made this android project with the improvements of user friendliness and well-planned interfaces to give the maximum efficiency to the users. The easiness of using this app even in an offline environment will benefit the user with a further extension.
  
- <p align="center" ><img src="https://user-images.githubusercontent.com/67775680/122571312-38069b80-d06a-11eb-8807-23069bc1d450.PNG"></p>
+ <p align="center" ><img src="https://user-images.githubusercontent.com/67775680/122571312-38069b80-d06a-11eb-8807-23069bc1d450.PNG" width="80" height="80"></p>
 
-<b>Ease Assistant App<b> is a task management app which can be used by anyone in order to manage tasks in a meaningful, methodical, proper manner with user friendliness. There are four major sections which are handled by this app, and they are Health management, Income and Expenses management, Academic management and Household management.
+<b>Ease Assistant App</b> is a task management app which can be used by anyone in order to manage tasks in a meaningful, methodical, proper manner with user friendliness. There are four major sections which are handled by this app, and they are Health management, Income and Expenses management, Academic management and Household management.
  
  <br>
 
