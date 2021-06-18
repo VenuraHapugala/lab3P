@@ -17,11 +17,11 @@
 
 <b>In the health management section</b>, a user can calculate his/her BMI easily by using this app and also, he/she can keep reminder notes, doctors’ appointment reminders, medical notes, to-do notes and change them according to his/her preference of updates.
 
-</b>In the income and expenses management section</b>, a user can create a list on the records of credits and debits. It helps the user to get a clear idea about his financial planning tasks with the monthly incomes and get a clear idea about the user’s financial handling.
+<b>In the income and expenses management section</b>, a user can create a list on the records of credits and debits. It helps the user to get a clear idea about his financial planning tasks with the monthly incomes and get a clear idea about the user’s financial handling.
 
-</b>In the academic management section</b>, users can add academic-related notes and reminders. Therefore, it helps the user to perform well with his/her academic performance, and the user can also calculate the dates up to the deadlines in order not to miss anything and plan well up to the date count.
+<b>In the academic management section</b>, users can add academic-related notes and reminders. Therefore, it helps the user to perform well with his/her academic performance, and the user can also calculate the dates up to the deadlines in order not to miss anything and plan well up to the date count.
 
-</b>The house holding management section</b> helps the user to manage household-related tasks in a very efficient way with proper planning. He can keep records of the needed household tasks and change them as according to his needs. With this, every function helps the user to manage his day-to-day life tasks without making any mistake. This app helps the user in several aspects of task varieties. Hence, he/she can use the app according to his/her timely needs. 
+<b>The house holding management section</b> helps the user to manage household-related tasks in a very efficient way with proper planning. He can keep records of the needed household tasks and change them as according to his needs. With this, every function helps the user to manage his day-to-day life tasks without making any mistake. This app helps the user in several aspects of task varieties. Hence, he/she can use the app according to his/her timely needs. 
 </p>
 
 <h4 align="center"> Online Hotel management web application</h4>
