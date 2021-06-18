@@ -4,7 +4,10 @@
 
 <h3  align="center">Let your life move with ease..We got you covered!</h3>
 <p align="center">Designed by Stack Innovators</p>
-<h6 align="center"> Venura Hapugala <h6>
+<h6 align="center"> -Venura Hapugala- <h6>
+<h6 align="center"> -Tharindu Abeyanayake- <h6>
+<h6 align="center"> -Vihanga Abeysinha- <h6>
+<h6 align="center"> -Thusil Rathnahewage- <h6>
 <hr/>
 <br><br>
 
