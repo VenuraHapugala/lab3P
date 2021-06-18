@@ -5,7 +5,7 @@
 <h3  align="center">Let your life move with ease..We got you covered!</h3>
 <p align="center">Designed by Stack Innovators</p>
 <h6 align="center"> -Venura Hapugala- <h6>
-<h6 align="center"> -Tharindu Abeyanayake- <h6>
+<h6 align="center"> -Tharindu Abeynayake- <h6>
 <h6 align="center"> -Vihanga Abeysinha- <h6>
 <h6 align="center"> -Thusil Rathnahewage- <h6>
 <hr/>
@@ -28,17 +28,4 @@
 
 <b>The house holding management section</b> helps the user to manage household-related tasks in a very efficient way with proper planning. He can keep records of the needed household tasks and change them as according to his needs. With this, every function helps the user to manage his day-to-day life tasks without making any mistake. This app helps the user in several aspects of task varieties. Hence, he/she can use the app according to his/her timely needs. 
 </p>
-
-<h4 align="center"> Online Hotel management web application</h4>
-<p align="center">The users of this web application will be the Administration panel of the Hotel system</p>
-<hr/>
-
-## To run the application
-
-### --Prerequisities--
-
- ###### Tools and Technologies used
-
-- Java Language
-- Android Studio Software
-- S
+ </hr>
