@@ -3,6 +3,7 @@
 <p align="center" ><img src="https://user-images.githubusercontent.com/67775680/122566076-c546f180-d064-11eb-838d-6404588eed68.jpg"></p>
 
 <h3  align="center">Let your life move with ease..We got you covered!</h3>
+<p>Designed by Stack Innovators</p>
 <p align="center" > <img src="https://image.freepik.com/free-vector/hostel-employee-chef-maid-bell-boy-education_335657-3154.jpg" width="400"></p>
 <h1 align="center"> Shereen Chalet, Kalpitiya</h1>
 
