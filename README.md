@@ -4,8 +4,9 @@
 
 <h3  align="center">Let your life move with ease..We got you covered!</h3>
 <p align="center">Designed by Stack Innovators</p>
+<hr/>
 
-<h1 align="center">Introduction</h1>
+<h1>Introduction</h1>
 
 <h4 align="center"> Online Hotel management web application</h4>
 <p align="center">The users of this web application will be the Administration panel of the Hotel system</p>
